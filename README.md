@@ -69,7 +69,8 @@ I’m a passionate data scientist and researcher, dedicated to creating innovati
 <img alt="Academia" title="Check out my work on Academia" src="https://img.shields.io/badge/Academia-41454A?style=for-the-badge&logo=academia&logoColor=white&labelColor=222426"/> </p>
 
 <p align="left"> 
-<a href="https://www.linkedin.com/in/timothy-ade/" target="_blank" style="text-decoration:none;"> <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004182"/> </a> 
-<a href="https://medium.com/@iamadeyemi" target="_blank" style="text-decoration:none;"> <img alt="Medium" title="Follow me on Medium" src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white&labelColor=333333"/> </a> 
-<a href="https://www.researchgate.net/profile/Timothy-Adeyemi-2?ev=hdr_xprf" target="_blank" style="text-decoration:none;"> <img alt="ResearchGate" title="See my research on ResearchGate" src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white&labelColor=008C7D"/> </a> 
-<a href="https://independent.academia.edu/iamadeyemi" target="_blank" style="text-decoration:none;"> <img alt="Academia" title="Check out my work on Academia" src="https://img.shields.io/badge/Academia-41454A?style=for-the-badge&logo=academia&logoColor=white&labelColor=222426"/> </a> </p>
+<img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004182" onclick="window.open('https://www.linkedin.com/in/timothy-ade/', '_blank')"/> 
+<img alt="Medium" title="Follow me on Medium" src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white&labelColor=333333" onclick="window.open('https://medium.com/@iamadeyemi', '_blank')"/> 
+<img alt="ResearchGate" title="See my research on ResearchGate" src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white&labelColor=008C7D" onclick="window.open('https://www.researchgate.net/profile/Timothy-Adeyemi-2?ev=hdr_xprf', '_blank')"/> 
+<img alt="Academia" title="Check out my work on Academia" src="https://img.shields.io/badge/Academia-41454A?style=for-the-badge&logo=academia&logoColor=white&labelColor=222426" onclick="window.open('https://independent.academia.edu/iamadeyemi', '_blank')"/> 
+</p>
