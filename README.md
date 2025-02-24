@@ -71,7 +71,7 @@ I’m a passionate data scientist and researcher, dedicated to creating innovati
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://www.youtube.com/c/fknight">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
       <a href="https://github.com/ForrestKnight?tab=followers">
@@ -81,4 +81,6 @@ I’m a passionate data scientist and researcher, dedicated to creating innovati
    </p>
 
 
-<p align="left"> <a href="https://www.linkedin.com/in/timothy-ade/"> <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004182"/> </a> <a href="https://medium.com/@iamadeyemi"> <img alt="Medium" title="Follow me on Medium" src="https://custom-icon-badges.demolab.com/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white&labelColor=333333"/> </a> <a href="https://www.researchgate.net/profile/Timothy-Adeyemi-2?ev=hdr_xprf"> <img alt="ResearchGate" title="See my research on ResearchGate" src="https://custom-icon-badges.demolab.com/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white&labelColor=008C7D"/> </a> <a href="https://independent.academia.edu/iamadeyemi"> <img alt="Academia" title="Check out my work on Academia" src="https://custom-icon-badges.demolab.com/badge/Academia-41454A?style=for-the-badge&logo=academia&logoColor=white&labelColor=222426"/> </a> </p>
+<p align="left"> 
+<a href="https://www.linkedin.com/in/timothy-ade/"> 
+<img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004182"/> </a> <a href="https://medium.com/@iamadeyemi"> <img alt="Medium" title="Follow me on Medium" src="https://custom-icon-badges.demolab.com/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white&labelColor=333333"/> </a> <a href="https://www.researchgate.net/profile/Timothy-Adeyemi-2?ev=hdr_xprf"> <img alt="ResearchGate" title="See my research on ResearchGate" src="https://custom-icon-badges.demolab.com/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white&labelColor=008C7D"/> </a> <a href="https://independent.academia.edu/iamadeyemi"> <img alt="Academia" title="Check out my work on Academia" src="https://custom-icon-badges.demolab.com/badge/Academia-41454A?style=for-the-badge&logo=academia&logoColor=white&labelColor=222426"/> </a> </p>
