@@ -51,7 +51,7 @@ I’m a passionate data scientist and researcher, dedicated to creating innovati
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+![Adeyemi's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=iamadeyemi&show_icons=true&theme=dark)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
