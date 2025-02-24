@@ -51,7 +51,7 @@ I’m a passionate data scientist and researcher, dedicated to creating innovati
 
 ---
 
-### 📊 Stats
+### 🔥 My GitHub Streak
 
  ![Adeyemi's GitHub Streak](https://streak-stats.demolab.com?user=iamadeyemi&theme=gruvbox&border_radius=4.5)
 
