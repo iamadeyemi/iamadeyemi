@@ -16,6 +16,8 @@ I’m a passionate data scientist and researcher, dedicated to creating innovati
    <img alt="Data Science Research" title="Data Science Research" src="https://img.shields.io/badge/Data%20Science-1e88e5?style=for-the-badge&logo=python&logoColor=white&labelColor=1565c0"/>
    <img alt="Intelligent Systems Research" title="Intelligent Systems Research" src="https://img.shields.io/badge/Intelligent%20Systems-9c27b0?style=for-the-badge&logo=robotframework&logoColor=white&labelColor=7b1fa2"/>
    <img alt="Embedded Systems Research" title="Embedded Systems Research" src="https://img.shields.io/badge/Embedded%20Systems-ff9800?style=for-the-badge&logo=raspberry-pi&logoColor=white&labelColor=f57c00"/>
+   <img alt="Internet of Things Research" title="Internet of Things Research" src="https://img.shields.io/badge/Internet%20of%20Things-00897b?style=for-the-badge&logo=thingsboard&logoColor=white&labelColor=00695c"/>
+
 </p>
 
 
