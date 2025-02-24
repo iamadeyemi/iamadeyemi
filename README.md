@@ -14,7 +14,9 @@ I’m a passionate data scientist and researcher, dedicated to creating innovati
    <img alt="AI Research" title="Artificial Intelligence Research" src="https://img.shields.io/badge/AI%20Research-4caf50?style=for-the-badge&logo=brain&logoColor=white&labelColor=388e3c"/>
    <img alt="ML Research" title="Machine Learning Research" src="https://img.shields.io/badge/ML%20Research-3f51b5?style=for-the-badge&logo=code&logoColor=white&labelColor=303f9f"/>
    <img alt="Cybersecurity Research" title="Cybersecurity Research" src="https://img.shields.io/badge/Cybersecurity%20Research-ff5722?style=for-the-badge&logo=shield&logoColor=white&labelColor=d84315"/>
-   <img alt="Sustainability Research" title="Environmental Sustainability Research" src="https://img.shields.io/badge/Sustainability%20Research-2c6e49?style=for-the-badge&logo=leaf&logoColor=white&labelColor=1b5e20"/>
+   <img alt="Data Science Research" title="Data Science Research" src="https://img.shields.io/badge/Data%20Science-1e88e5?style=for-the-badge&logo=python&logoColor=white&labelColor=1565c0"/>
+   <img alt="Intelligent Systems Research" title="Intelligent Systems Research" src="https://img.shields.io/badge/Intelligent%20Systems-9c27b0?style=for-the-badge&logo=robotframework&logoColor=white&labelColor=7b1fa2"/>
+   <img alt="Embedded Systems Research" title="Embedded Systems Research" src="https://img.shields.io/badge/Embedded%20Systems-ff9800?style=for-the-badge&logo=raspberry-pi&logoColor=white&labelColor=f57c00"/>
 </p>
 
 
