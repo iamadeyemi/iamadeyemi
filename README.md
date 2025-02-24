@@ -61,14 +61,10 @@ I’m a passionate data scientist and researcher, dedicated to creating innovati
 
 ### 🌐 Connect with Me
 
-<p align="left">
-   <img alt="AI Research" title="Artificial Intelligence Research" src="https://img.shields.io/badge/Artificial%20Intelligence-4caf50?style=for-the-badge&logo=openai&logoColor=white&labelColor=388e3c"/>
-   <img alt="ML Research" title="Machine Learning Research" src="https://img.shields.io/badge/Machine%20Learning-3f51b5?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=303f9f"/>
-
-</p>
 
 <p align="left"> 
 <a href="https://www.linkedin.com/in/your-profile" target="_blank"> <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> 
 <a href="https://medium.com/@your-profile" target="_blank"> <img alt="Medium" title="Follow me on Medium" src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/> </a> 
 <a href="https://www.researchgate.net/profile/your-profile" target="_blank"> <img alt="ResearchGate" title="See my research on ResearchGate" src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/> </a> 
-<a href="https://independent.academia.edu/your-profile" target="_blank"> <img alt="Academia" title="Check out my work on Academia" src="https://img.shields.io/badge/Academia-41454A?style=for-the-badge&logo=academia&logoColor=white"/> </a> </p>
+<a href="https://independent.academia.edu/your-profile" target="_blank"> <img alt="Academia" title="Check out my work on Academia" src="https://img.shields.io/badge/Academia-41454A?style=for-the-badge&logo=academia&logoColor=white"/> </a> 
+</p>
