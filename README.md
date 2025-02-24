@@ -53,9 +53,7 @@ I’m a passionate data scientist and researcher, dedicated to creating innovati
 
 ### 📊 Stats
 
-![Adeyemi's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=iamadeyemi&show_icons=true&theme=dark)
-
- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5)
+ ![Adeyemi's GitHub Streak](https://streak-stats.demolab.com?user=iamadeyemi&theme=gruvbox&border_radius=4.5)
 
 #
 <!--
