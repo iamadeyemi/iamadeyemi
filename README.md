@@ -1,10 +1,7 @@
 # 🏄‍♂️ Timothy Adeyemi
 
-<h3 align="center">
-  <span style="background-color: #f0f0f0; padding: 5px 10px; border-radius: 5px; color: #333;">
-    Data Scientist | AI Enthusiast | Problem Solver
-  </span>
-</h3>
+**`Data Scientist | AI Expert | Problem Solver`**
+
 
 I’m a passionate data scientist and researcher, dedicated to creating innovative solutions where artificial intelligence, machine learning, and environmental sustainability intersect. Every project I work on is built from scratch starting with careful planning and design, then moving to implementation and refinement all with the goal of solving real-world problems using data-driven insights. My experience spans diverse fields, and I love sharing my research and projects on platforms like GitHub and LinkedIn to collaborate with others and inspire fellow professionals.
 
