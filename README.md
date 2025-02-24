@@ -5,17 +5,18 @@
 
 I’m a passionate data scientist and researcher, dedicated to creating innovative solutions where artificial intelligence, machine learning, and environmental sustainability intersect. Every project I work on is built from scratch starting with careful planning and design, then moving to implementation and refinement all with the goal of solving real-world problems using data-driven insights. My experience spans diverse fields, and I love sharing my research and projects on platforms like GitHub and LinkedIn to collaborate with others and inspire fellow professionals.
 
+---
+
+### 🔬  Research Interests
+
+
 <p align="left">
-   <a href="https://github.com/yourprofile?tab=repositories">
-      <img alt="AI Research" title="AI Research" src="https://custom-icon-badges.demolab.com/github/stars/yourprofile?color=%234caf50&label=AI+Research&logo=brain&logoColor=white&style=for-the-badge&labelColor=388e3c"/>
-   </a> 
-   <a href="https://github.com/yourprofile?tab=repositories">
-      <img alt="ML Research" title="Machine Learning Research" src="https://custom-icon-badges.demolab.com/github/stars/yourprofile?color=%233f51b5&label=ML+Research&logo=code&logoColor=white&style=for-the-badge&labelColor=303f9f"/>
-   </a> 
-   <a href="https://github.com/yourprofile?tab=repositories">
-      <img alt="Sustainability Research" title="Environmental Sustainability Research" src="https://custom-icon-badges.demolab.com/github/stars/yourprofile?color=%232c6e49&label=Sustainability+Research&logo=leaf&logoColor=white&style=for-the-badge&labelColor=1b5e20"/>
-   </a>
+   <img alt="AI Research" title="Artificial Intelligence Research" src="https://img.shields.io/badge/AI%20Research-4caf50?style=for-the-badge&logo=brain&logoColor=white&labelColor=388e3c"/>
+   <img alt="ML Research" title="Machine Learning Research" src="https://img.shields.io/badge/ML%20Research-3f51b5?style=for-the-badge&logo=code&logoColor=white&labelColor=303f9f"/>
+   <img alt="Cybersecurity Research" title="Cybersecurity Research" src="https://img.shields.io/badge/Cybersecurity%20Research-ff5722?style=for-the-badge&logo=shield&logoColor=white&labelColor=d84315"/>
+   <img alt="Sustainability Research" title="Environmental Sustainability Research" src="https://img.shields.io/badge/Sustainability%20Research-2c6e49?style=for-the-badge&logo=leaf&logoColor=white&labelColor=1b5e20"/>
 </p>
+
 
 
 ---
