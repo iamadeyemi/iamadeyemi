@@ -70,4 +70,6 @@ I’m a passionate data scientist and researcher, dedicated to creating innovati
          <img alt="Academia" title="Check out my work on Academia" src="https://custom-icon-badges.demolab.com/badge/Academia-41454A?style=for-the-badge&logo=academia&logoColor=white&labelColor=222426"/></a>
          <a href="https://mavenanalytics.io/profile/Timothy-Adeyemi/203569982">
          <img alt="Maven Analytics" title="Explore my work on Maven Analytics" src="https://custom-icon-badges.demolab.com/badge/Maven%20Analytics-0056D2?style=for-the-badge&logo=maven&logoColor=white&labelColor=003C92"/></a> 
+         <a href="mailto:atimothy.dev@gmail.com">
+         <img alt="Gmail" title="Send me an email" src="https://custom-icon-badges.demolab.com/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=C5221F"/></a> 
    </p>
