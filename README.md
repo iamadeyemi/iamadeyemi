@@ -19,12 +19,12 @@ I’m a passionate data scientist and researcher, dedicated to creating innovati
 </p>
 
 ### 🔬 Research Interests  
-<p align="center">
+<p align="left">
    <img alt="AI Research" title="Artificial Intelligence Research" src="https://img.shields.io/badge/Artificial%20Intelligence-4caf50?style=for-the-badge&logo=openai&logoColor=white&labelColor=388e3c"/>
    <img alt="ML Research" title="Machine Learning Research" src="https://img.shields.io/badge/Machine%20Learning-3f51b5?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=303f9f"/>
    <img alt="Cybersecurity Research" title="Information Security Research" src="https://img.shields.io/badge/Information%20Security-ff5722?style=for-the-badge&logo=fortinet&logoColor=white&labelColor=d84315"/>
 </p>
-<p align="center">
+<p align="left">
    <img alt="Data Science Research" title="Data Science Research" src="https://img.shields.io/badge/Data%20Science-1e88e5?style=for-the-badge&logo=python&logoColor=white&labelColor=1565c0"/>
    <img alt="Intelligent Systems Research" title="Intelligent Systems Research" src="https://img.shields.io/badge/Intelligent%20Systems-9c27b0?style=for-the-badge&logo=robotframework&logoColor=white&labelColor=7b1fa2"/>
    <img alt="Embedded Systems Research" title="Embedded Systems Research" src="https://img.shields.io/badge/Embedded%20Systems-ff9800?style=for-the-badge&logo=raspberry-pi&logoColor=white&labelColor=f57c00"/>
