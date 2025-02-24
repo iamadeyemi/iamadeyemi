@@ -59,7 +59,7 @@ I’m a passionate data scientist and researcher, dedicated to creating innovati
 #
 ---
 
-### 🔬  Connect with me
+### 🌐 Connect with Me
 
 <p align="left">
    <img alt="AI Research" title="Artificial Intelligence Research" src="https://img.shields.io/badge/Artificial%20Intelligence-4caf50?style=for-the-badge&logo=openai&logoColor=white&labelColor=388e3c"/>
