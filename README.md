@@ -75,13 +75,3 @@ I’m a passionate data scientist and researcher, dedicated to creating innovati
          <a href="mailto:adeyemitimothy17@gmail.com">
          <img alt="Gmail" title="Send me an email" src="https://custom-icon-badges.demolab.com/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=C5221F"/></a> 
    </p>
-   #
----
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
