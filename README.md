@@ -1,5 +1,5 @@
 <h1 style="text-align: left; margin: 0; padding: 0;">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Timothy+Adeyemi!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=false&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Timothy+Adeyemi!;" />
 </h1>
 
 **`Data Scientist | AI Expert | Data Analyst | Problem Solver`**
