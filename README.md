@@ -56,24 +56,26 @@ I share my work on **GitHub, LinkedIn, and research platforms** to inspire colla
 
 ---
 
-## 🌐 Connect with Me
+### 🌐 Let’s Connect
+
 <p align="left">
   <a href="https://www.linkedin.com/in/timothy-ade/">
-    <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004182"/>
-  </a> 
-  <a href="https://www.researchgate.net/profile/Timothy-Adeyemi-2?ev=hdr_xprf">
-    <img alt="ResearchGate" src="https://custom-icon-badges.demolab.com/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white&labelColor=008C7D"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004182" alt="LinkedIn" />
+  </a>
+  <a href="https://www.researchgate.net/profile/Timothy-Adeyemi-2">
+    <img src="https://custom-icon-badges.demolab.com/badge/-ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white&labelColor=008C7D" alt="ResearchGate" />
   </a>
   <a href="https://independent.academia.edu/iamadeyemi">
-    <img alt="Academia" src="https://custom-icon-badges.demolab.com/badge/Academia-41454A?style=for-the-badge&logo=academia&logoColor=white&labelColor=222426"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/-Academia-41454A?style=for-the-badge&logo=academia&logoColor=white&labelColor=222426" alt="Academia" />
   </a>
   <a href="https://mavenanalytics.io/profile/Timothy-Adeyemi/203569982">
-    <img alt="Maven Analytics" src="https://custom-icon-badges.demolab.com/badge/Maven%20Analytics-0056D2?style=for-the-badge&logo=maven&logoColor=white&labelColor=003C92"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/-Maven%20Analytics-0056D2?style=for-the-badge&logo=maven&logoColor=white&labelColor=003C92" alt="Maven Analytics" />
   </a>
   <a href="mailto:adeyemitimothy17@gmail.com">
-    <img alt="Gmail" src="https://custom-icon-badges.demolab.com/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=C5221F"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=C5221F" alt="Email" />
   </a>
 </p>
+
 ---
 
 ### 🏷️ Fun Fact
