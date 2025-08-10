@@ -74,3 +74,7 @@ I share my work on **GitHub, LinkedIn, and research platforms** to inspire colla
     <img alt="Gmail" src="https://custom-icon-badges.demolab.com/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=C5221F"/>
   </a>
 </p>
+---
+
+### 🏷️ Fun Fact
+> 🌱 I believe the future of AI isn't just smarter models — it's **smarter, greener, and fairer systems**.
