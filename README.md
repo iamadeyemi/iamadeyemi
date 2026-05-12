@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=4CAF50&center=false&vCenter=false&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Timothy+Adeyemi!;+AI+Researcher+%7C+Data+Scientist+%7C+Cybersecurity+Enthusiast" alt="Typing SVG">
 </h1>
 
-**`AI Researcher | Data Scientist | Machine Learning Engineer | Cybersecurity Enthusiast | NLP & Climate-Tech Innovator`**
+**`AI Researcher | Data Scientist | Machine Learning Engineer | Cybersecurity Expert | NLP & Climate-Tech Innovator`**
 
 I am a passionate **AI researcher, data scientist, and technology innovator** focused on developing intelligent systems that solve complex real-world problems across **cybersecurity, agriculture, climate change, healthcare, natural language processing (NLP), and smart technologies**.  
 
@@ -132,4 +132,4 @@ I enjoy sharing knowledge, collaborating on innovative projects, and contributin
 ---
 
 ### 🏷️ Vision Statement
-> I believe the future of AI lies in building systems that are not only intelligent, but also **secure, sustainable, explainable, and socially impactful** — empowering industries, protecting digital ecosystems, and advancing global development through responsible innovation.
+> I believe the future of AI lies in building systems that are not only intelligent, but also **secure, sustainable, explainable, and socially impactful**, empowering industries, protecting digital ecosystems, and advancing global development through responsible innovation.
