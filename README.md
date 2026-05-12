@@ -76,4 +76,4 @@ I share my work on **GitHub, LinkedIn, and research platforms** to inspire colla
 ---
 
 ### 🏷️ Fun Fact
-> 🌱 I believe the future of AI isn't just smarter models — it's **smarter, greener, and fairer systems**.
+> I believe the future of AI isn't just smarter models — it's **smarter, greener, and fairer systems**.
